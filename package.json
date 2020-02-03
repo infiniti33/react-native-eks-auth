@@ -1,0 +1,35 @@
+{
+  "name": "react-native-eks-auth",
+  "version": "1.0.1",
+  "description": "Authenticate to AWS EKS clusters using AWS IAM in React Native apps",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/infiniti33/react-native-eks-auth.git"
+  },
+  "keywords": [
+    "amazon",
+    "aws",
+    "eks",
+    "signature",
+    "react-native",
+    "react",
+    "native",
+    "sts",
+    "auth",
+    "authentication",
+    "aws4",
+    "cluster",
+    "kubernetes"
+  ],
+  "author": "Taylor Rodrigues <taylor.d.rod34@gmail.com> (http://github.com/infiniti33)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/infiniti33/react-native-eks-auth/issues"
+  },
+  "homepage": "https://github.com/infiniti33/react-native-eks-auth#readme",
+  "dependencies": {
+    "js-base64": "^2.5.1"
+  }
+}
